@@ -1,2 +1,3 @@
 This is views
 This is add new content
+This is new content 1 and this is new content 2
